@@ -35,8 +35,8 @@ Dextra is a Software development company which is really proud of the great work
 
 # JavaScript
 
- - [Nanoflux](https://github.com/ohager/nanoflux) - Very lightweight, depency-free Flux implementation. Author [Oliver Hager](https://github.com/ohager)
- - [Phoenix Burst Wallet](https://github.com/burst-apps-team/phoenix) - Cross-platform for the Burstcoin blockchain. Author [Oliver Hager](https://github.com/ohager)
+ - [Nanoflux](https://github.com/ohager/nanoflux) - Very lightweight, depency-free Flux implementation. Author: [Oliver Hager](https://github.com/ohager)
+ - [Phoenix Burst Wallet](https://github.com/burst-apps-team/phoenix) - Cross-platform for the Burstcoin blockchain. Author: [Oliver Hager](https://github.com/ohager)
 
 ## Contributing
 
