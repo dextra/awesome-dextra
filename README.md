@@ -1,3 +1,22 @@
+<div align="center">
+	<div>
+    <a href="https://flame-engine.org/">
+		<img width="300" src="media/logo.png" alt="Awesome Flame">
+    </a>
+	</div>
+  <p style="margin-top:30px;" align="center">
+    <a href="https://github.com/sindresorhus/awesome">
+      <img alt="Awesome" src="https://awesome.re/badge-flat.svg" />
+    </a>
+    <a href="http://creativecommons.org/publicdomain/zero/1.0">
+      <img alt="License: CC0" src="https://img.shields.io/badge/license-CC0-lightgray?style=flat-square" />
+    </a>
+    <a href="https://github.com/dextra/awesome-dextra/blob/main/CONTRIBUTING.md">
+      <img alt="Add your project" src="https://img.shields.io/badge/-Add%20your%20project-blue?style=flat-square" />
+    </a>
+  </p>
+</div>
+
 # Awesome dextra
 
 A curated list of open source projects created or maintained by Dextra employees.
