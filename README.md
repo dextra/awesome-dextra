@@ -1,7 +1,7 @@
 <div align="center">
 	<div>
-    <a href="https://flame-engine.org/">
-		<img width="300" src="media/logo.png" alt="Awesome Flame">
+    <a href="https://dextra.com.br/en/">
+		<img width="300" src="media/logo.png" alt="Awesome Dextra">
     </a>
 	</div>
   <p style="margin-top:30px;" align="center">
