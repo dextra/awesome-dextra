@@ -55,7 +55,7 @@ Dextra is a Software development company which is really proud of the great work
 </div>
 
  - [Phoenix Burst Wallet](https://github.com/burst-apps-team/phoenix) - Cross-platform for the Burstcoin blockchain. Author: [Oliver Hager](https://github.com/ohager)
- - [@burstjs](https://github.com/burst-apps-team/phoenix/lib/README.md) - Reference Library for Burstcoin blockchain platform. Author: [Oliver Hager](https://github.com/ohager)
+ - [@burstjs](https://burst-apps-team.github.io/phoenix) - Reference Library for Burstcoin blockchain platform. Author: [Oliver Hager](https://github.com/ohager)
 
 
 ## Contributing
