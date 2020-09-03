@@ -36,7 +36,6 @@ Dextra is a Software development company which is really proud of the great work
 	</a>
 	<img height="64" src="media/flutter.svg" alt="Flutter Logo" />
 </div>
-# Flutter 
 
  - [Dashbook](https://github.com/erickzanardo/dashbook) - Documentation and sandbox tool for Flutter. Author: [Erick Zanardo](https://github.com/erickzanardo/)
  - [Flame](https://github.com/flame-engine/flame) - A game engine written on top of Flutter. Maintainer: [Erick Zanardo](https://github.com/erickzanardo/)
