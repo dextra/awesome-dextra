@@ -27,16 +27,22 @@ Dextra is a Software development company which is really proud of the great work
 
  - [Flutter](#flutter)
  - [JavaScript](#javascript)
+ - [TypeScript](#typescript)
 
 # Flutter
 
  - [Dashbook](https://github.com/erickzanardo/dashbook) - Documentation and sandbox tool for Flutter. Author: [Erick Zanardo](https://github.com/erickzanardo/)
- - [Flame](https://github.com/flame-engine/flame) - A game engine written on top of Flame. Maintainer: [Erick Zanardo](https://github.com/erickzanardo/)
+ - [Flame](https://github.com/flame-engine/flame) - A game engine written on top of Flutter. Maintainer: [Erick Zanardo](https://github.com/erickzanardo/)
 
 # JavaScript
 
  - [Nanoflux](https://github.com/ohager/nanoflux) - Very lightweight, depency-free Flux implementation. Author: [Oliver Hager](https://github.com/ohager)
+ - [Stappo](https://github.com/ohager/stappo) - Extremly tiny Application State Manager written in Javascript (less than 300 bytes). Author: [Oliver Hager](https://github.com/ohager)
+
+# TypeScript
  - [Phoenix Burst Wallet](https://github.com/burst-apps-team/phoenix) - Cross-platform for the Burstcoin blockchain. Author: [Oliver Hager](https://github.com/ohager)
+ - [@burstjs](https://github.com/burst-apps-team/phoenix/lib/README.md) - Reference Library for Burstcoin blockchain platform. Author: [Oliver Hager](https://github.com/ohager)
+
 
 ## Contributing
 
