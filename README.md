@@ -32,7 +32,7 @@ Dextra is a Software development company which is really proud of the great work
 
 <div>
 	<a href='#flutter'></a>
-	<h1>Flutter<img style="margin-left: 1rem" height="32" src="media/flutter.svg" alt="Flutter Logo"/></h1>
+	<h1>Flutter &nbsp; <img style="margin: 4px 0 0 4px" height="32" src="media/flutter.svg" alt="Flutter Logo"/></h1>
 </div>
 
  - [Dashbook](https://github.com/erickzanardo/dashbook) - Documentation and sandbox tool for Flutter. Author: [Erick Zanardo](https://github.com/erickzanardo/)
@@ -40,14 +40,14 @@ Dextra is a Software development company which is really proud of the great work
 
 <div>
 	<a href='#javascript'></a>
-	<h1>Javascript<img style="margin-left: 1rem" height="32" src="media/javascript.svg" alt="Javascript Logo"/></h1>
+	<h1>Javascript &nbsp; <img style="margin: 4px 0 0 4px" height="32" src="media/javascript.svg" alt="Javascript Logo"/></h1>
 </div>
  - [Nanoflux](https://github.com/ohager/nanoflux) - Very lightweight, depency-free Flux implementation. Author: [Oliver Hager](https://github.com/ohager)
  - [Stappo](https://github.com/ohager/stappo) - Extremely tiny Application State Manager written in Javascript (less than 300 bytes). Author: [Oliver Hager](https://github.com/ohager)
 
 <div>
 	<a href='#typescript'></a>
-	<h1>Typescript<img style="margin-left: 1rem" height="32" src="media/typescript.svg" alt="Typescript Logo"/></h1>
+	<h1>Typescript &nbsp; <img style="margin: 4px 0 0 4px" height="32" src="media/typescript.svg" alt="Typescript Logo"/></h1>
 </div>
  - [Phoenix Burst Wallet](https://github.com/burst-apps-team/phoenix) - Cross-platform for the Burstcoin blockchain. Author: [Oliver Hager](https://github.com/ohager)
  - [@burstjs](https://github.com/burst-apps-team/phoenix/lib/README.md) - Reference Library for Burstcoin blockchain platform. Author: [Oliver Hager](https://github.com/ohager)
