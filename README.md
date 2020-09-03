@@ -30,10 +30,11 @@ Dextra is a Software development company which is really proud of the great work
  - [TypeScript](#typescript)
 
 
-<div align="center" style="margin-left: 1rem">
+<div>
 	<a href='#flutter'></a>
-	<h1 class="markdown-body h1">Flutter</h1>
-	<img height="32" src="media/flutter.svg" alt="Flutter Logo" />
+	<h1 class="markdown-body h1">Flutter
+		<img style="margin-left: 1rem" height="32" src="media/flutter.svg" alt="Flutter Logo"/>
+	</h1>
 </div>
 
  - [Dashbook](https://github.com/erickzanardo/dashbook) - Documentation and sandbox tool for Flutter. Author: [Erick Zanardo](https://github.com/erickzanardo/)
