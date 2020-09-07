@@ -27,6 +27,7 @@ Dextra is a Software development company which is really proud of the great work
 
  - [Flutter](#flutter)
  - [JavaScript](#javascript)
+ - [.NET](#net)
  - [TypeScript](#typescript)
 
 
@@ -57,6 +58,10 @@ Dextra is a Software development company which is really proud of the great work
  - [Phoenix Burst Wallet](https://github.com/burst-apps-team/phoenix) - Cross-platform for the Burstcoin blockchain. Co-Author/Maintainer: [Oliver Hager](https://github.com/ohager)
  - [@burstjs](https://burst-apps-team.github.io/phoenix) - Reference Library for Burstcoin blockchain platform. Co-Author/Maintainer: [Oliver Hager](https://github.com/ohager)
 
+
+# .NET
+
+ - [DexQuiz](https://github.com/dextra/dexquiz) - A simple quiz with different tracks, to be used in events to engage people with the company and also help with gifts and awards. Author: [Gustavo Bigardi](https://github.com/gustavobigardi)
 
 ## Contributing
 
