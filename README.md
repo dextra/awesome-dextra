@@ -28,16 +28,36 @@ Dextra is a Software development company which is really proud of the great work
  - [Flutter](#flutter)
  - [JavaScript](#javascript)
  - [.NET](#net)
+ - [TypeScript](#typescript)
 
-# Flutter
+
+
+<div>
+	<a href='#flutter'></a>
+	<h1>Flutter <img style="margin: 4px 0 0 4px" height="32" src="media/flutter.svg" alt="Flutter Logo"/></h1>
+</div>
 
  - [Dashbook](https://github.com/erickzanardo/dashbook) - Documentation and sandbox tool for Flutter. Author: [Erick Zanardo](https://github.com/erickzanardo/)
- - [Flame](https://github.com/flame-engine/flame) - A game engine written on top of Flame. Maintainer: [Erick Zanardo](https://github.com/erickzanardo/)
+ - [Flame](https://github.com/flame-engine/flame) - A game engine written on top of Flutter. Maintainer: [Erick Zanardo](https://github.com/erickzanardo/)
 
-# JavaScript
+
+<div>
+	<a href='#javascript'></a>
+	<h1>Javascript <img style="margin: 4px 0 0 4px" height="32" src="media/javascript.svg" alt="Javascript Logo"/></h1>
+</div>
 
  - [Nanoflux](https://github.com/ohager/nanoflux) - Very lightweight, depency-free Flux implementation. Author: [Oliver Hager](https://github.com/ohager)
- - [Phoenix Burst Wallet](https://github.com/burst-apps-team/phoenix) - Cross-platform for the Burstcoin blockchain. Author: [Oliver Hager](https://github.com/ohager)
+ - [Stappo](https://github.com/ohager/stappo) - Extremely tiny Application State Manager written in Javascript (less than 300 bytes). Author: [Oliver Hager](https://github.com/ohager)
+
+
+<div>
+	<a href='#typescript'></a>
+	<h1>Typescript <img style="margin: 4px 0 0 4px" height="32" src="media/typescript.svg" alt="Typescript Logo"/></h1>
+</div>
+
+ - [Phoenix Burst Wallet](https://github.com/burst-apps-team/phoenix) - Cross-platform for the Burstcoin blockchain. Co-Author/Maintainer: [Oliver Hager](https://github.com/ohager)
+ - [@burstjs](https://burst-apps-team.github.io/phoenix) - Reference Library for Burstcoin blockchain platform. Co-Author/Maintainer: [Oliver Hager](https://github.com/ohager)
+
 
 # .NET
 
