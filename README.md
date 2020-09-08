@@ -59,7 +59,10 @@ Dextra is a Software development company which is really proud of the great work
  - [@burstjs](https://burst-apps-team.github.io/phoenix) - Reference Library for Burstcoin blockchain platform. Co-Author/Maintainer: [Oliver Hager](https://github.com/ohager)
 
 
-# .NET
+<div>
+	<a href='#net'></a>
+	<h1>.NET <img style="margin: 4px 0 0 4px" height="32" src="media/dotnet.svg" alt=".NET Logo"/></h1>
+</div>
 
  - [DexQuiz](https://github.com/dextra/dexquiz) - A simple quiz with different tracks, to be used in events to engage people with the company and also help with gifts and awards. Author: [Gustavo Bigardi](https://github.com/gustavobigardi)
 
