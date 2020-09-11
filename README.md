@@ -55,7 +55,7 @@ Dextra is a Software development company which is really proud of the great work
 <h1>Swift <img style="margin: 4px 0 0 4px" height="32" src="media/swift.svg" alt="Swift Logo"/></h1>
 
 - [BricksAndTiles](https://github.com/mugbug/BricksAndTiles) - 
-🧱 A composable solution for building reusable lists in Swift/UIKit. As easy as playing with Legos. Author: [Pedro Zaroni](https://github.com/mugbug)
+🧱 A composable solution for building reusable lists in Swift/UIKit. As easy as playing with Legos. Co-Author/Maintainer: [Pedro Zaroni](https://github.com/mugbug)
 
 ## Contributing
 
