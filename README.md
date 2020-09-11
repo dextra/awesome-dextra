@@ -40,7 +40,6 @@ Dextra is a Software development company which is really proud of the great work
 
 <h1>Javascript <img style="margin: 4px 0 0 4px" height="32" src="media/javascript.svg" alt="Javascript Logo"/></h1>
 
- - [Gotql](https://github.com/khaosdoctor/gotql) - Allowing you to write your GraphQL queries as Javascript Objects instead of strings. Co-Author/Maintainer: [Tiago Silva](https://github.com/tiago154)
  - [Graphql Import Files](https://github.com/tiago154/graphql-import-files) - Light and easy package that will load .graphql files and use them with syntax highlighting. Author: [Tiago Silva](https://github.com/tiago154)
  - [Nanoflux](https://github.com/ohager/nanoflux) - Very lightweight, depency-free Flux implementation. Author: [Oliver Hager](https://github.com/ohager)
  - [Stappo](https://github.com/ohager/stappo) - Extremely tiny Application State Manager written in Javascript (less than 300 bytes). Author: [Oliver Hager](https://github.com/ohager)
