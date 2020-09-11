@@ -52,6 +52,11 @@ Dextra is a Software development company which is really proud of the great work
 
  - [DexQuiz](https://github.com/dextra/dexquiz) - A simple quiz with different tracks, to be used in events to engage people with the company and also help with gifts and awards. Author: [Gustavo Bigardi](https://github.com/gustavobigardi)
 
+<h1>Swift <img style="margin: 4px 0 0 4px" height="32" src="media/swift.svg" alt="Swift Logo"/></h1>
+
+- [BricksAndTiles](https://github.com/mugbug/BricksAndTiles) - 
+🧱 A composable solution for building reusable lists in Swift/UIKit. As easy as playing with Legos. Author: [Pedro Zaroni](https://github.com/mugbug)
+
 ## Contributing
 
 To add your own projects to this list, please check the [CONTRIBUTING](CONTRIBUTING.md) guide.
