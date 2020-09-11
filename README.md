@@ -54,7 +54,7 @@ Dextra is a Software development company which is really proud of the great work
 
  - [DexQuiz](https://github.com/dextra/dexquiz) - A simple quiz with different tracks, to be used in events to engage people with the company and also help with gifts and awards. Author: [Gustavo Bigardi](https://github.com/gustavobigardi)
  
-<h1>GoLang <img style="margin: 4px 0 0 4px" height="32" src="media/dotnet.svg" alt=".NET Logo"/></h1>
+<h1>GoLang <img style="margin: 4px 0 0 4px" height="32" src="media/golang.png" alt="GoLang Logo"/></h1>
 
  - [Open-Computer](https://github.com/Open-Machine/) - A computer built from scratch: from the circuit to the assembler (high-end language coming soon). Author: [Luca Dillenburg](github.com/LucaDillenburg)
 
