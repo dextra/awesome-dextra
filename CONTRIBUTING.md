@@ -24,7 +24,7 @@ If your project meets those criterias, then is time to fork this repository and 
 
 The changes on README.md must follow the following guide line to be accepted.
 
-The project must be under a category, and if a category still don't exist, it can be created (be sure to add this new category to the index on the start of the file and add an awesome icon to it! this [link](https://simpleicons.org) could help)
+The project must be under a category, and if a category still don't exist, it can be created (be sure to add this new category to the index on the start of the file and add an awesome icon to it! [This](https://simpleicons.org) could help)
 
 The new added line on the category must follow as show bellow:
 
