@@ -29,6 +29,7 @@ Dextra is a Software development company which is really proud of the great work
  - [JavaScript](#javascript-)
  - [.NET](#net-)
  - [TypeScript](#typescript-)
+ - [GoLang](#golang-)
 
 
 
@@ -42,6 +43,7 @@ Dextra is a Software development company which is really proud of the great work
 
  - [Nanoflux](https://github.com/ohager/nanoflux) - Very lightweight, depency-free Flux implementation. Author: [Oliver Hager](https://github.com/ohager)
  - [Stappo](https://github.com/ohager/stappo) - Extremely tiny Application State Manager written in Javascript (less than 300 bytes). Author: [Oliver Hager](https://github.com/ohager)
+ - [Engine-2D-Shooting-Game](https://github.com/lucadillenburg/Engine-2D-Jogo-de-Tiro/) - A top-down 2D shooting game engine. Author: [Luca Dillenburg](github.com/LucaDillenburg)
 
 <h1>Typescript <img style="margin: 4px 0 0 4px" height="32" src="media/typescript.svg" alt="Typescript Logo"/></h1>
 
@@ -51,6 +53,10 @@ Dextra is a Software development company which is really proud of the great work
 <h1>.NET <img style="margin: 4px 0 0 4px" height="32" src="media/dotnet.svg" alt=".NET Logo"/></h1>
 
  - [DexQuiz](https://github.com/dextra/dexquiz) - A simple quiz with different tracks, to be used in events to engage people with the company and also help with gifts and awards. Author: [Gustavo Bigardi](https://github.com/gustavobigardi)
+ 
+<h1>GoLang <img style="margin: 4px 0 0 4px" height="32" src="media/dotnet.svg" alt=".NET Logo"/></h1>
+
+ - [Open-Computer](https://github.com/Open-Machine/) - A computer built from scratch: from the circuit to the assembler (high-end language coming soon). Author: [Luca Dillenburg](github.com/LucaDillenburg)
 
 ## Contributing
 
