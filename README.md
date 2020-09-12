@@ -19,7 +19,7 @@
 
 # Awesome dextra
 
-A curated list of open source projects created or maintained by Dextra employees.
+A curated list of open source projects created or maintained by [Dextra](https://dextra.com.br/) employees.
 
 Dextra is a Software development company which is really proud of the great work that its employees do on the open source community, this list is a simple way to show those awesome projects.
 
