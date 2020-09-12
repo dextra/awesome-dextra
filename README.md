@@ -28,8 +28,8 @@ Dextra is a Software development company which is really proud of the great work
  - [Android](#android-)
  - [Flutter](#flutter-)
  - [JavaScript](#javascript-)
- - [TypeScript](#typescript-)
  - [.NET](#net-)
+ - [TypeScript](#typescript-)
 
 <h1>Android <img style="margin: 4px 0 0 4px" height="32" src="media/android.svg" alt="Android Logo"/></h1>
 
