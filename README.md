@@ -27,9 +27,9 @@ Dextra is a Software development company which is really proud of the great work
 
  - [Flutter](#flutter-)
  - [JavaScript](#javascript-)
- - [.NET](#net-)
+ - [Swift](#swift-)
  - [TypeScript](#typescript-)
-
+ - [.NET](#net-)
 
 
 <h1>Flutter <img style="margin: 4px 0 0 4px" height="32" src="media/flutter.svg" alt="Flutter Logo"/></h1>
@@ -37,12 +37,16 @@ Dextra is a Software development company which is really proud of the great work
  - [Dashbook](https://github.com/erickzanardo/dashbook) - Documentation and sandbox tool for Flutter. Author: [Erick Zanardo](https://github.com/erickzanardo/)
  - [Flame](https://github.com/flame-engine/flame) - A game engine written on top of Flutter. Maintainer: [Erick Zanardo](https://github.com/erickzanardo/)
 
-
 <h1>Javascript <img style="margin: 4px 0 0 4px" height="32" src="media/javascript.svg" alt="Javascript Logo"/></h1>
 
  - [Graphql Import Files](https://github.com/tiago154/graphql-import-files) - Light and easy package that will load .graphql files and use them with syntax highlighting. Author: [Tiago Silva](https://github.com/tiago154)
  - [Nanoflux](https://github.com/ohager/nanoflux) - Very lightweight, depency-free Flux implementation. Author: [Oliver Hager](https://github.com/ohager)
  - [Stappo](https://github.com/ohager/stappo) - Extremely tiny Application State Manager written in Javascript (less than 300 bytes). Author: [Oliver Hager](https://github.com/ohager)
+
+<h1>Swift <img style="margin: 4px 0 0 4px" height="32" src="media/swift.svg" alt="Swift Logo"/></h1>
+
+- [BricksAndTiles](https://github.com/mugbug/BricksAndTiles) - 
+🧱 A composable solution for building reusable lists in Swift/UIKit. As easy as playing with Legos. Co-Author/Maintainer: [Pedro Zaroni](https://github.com/mugbug)
 
 <h1>Typescript <img style="margin: 4px 0 0 4px" height="32" src="media/typescript.svg" alt="Typescript Logo"/></h1>
 
