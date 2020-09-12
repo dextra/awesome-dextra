@@ -27,9 +27,9 @@ Dextra is a Software development company which is really proud of the great work
 
  - [Flutter](#flutter-)
  - [JavaScript](#javascript-)
- - [.NET](#net-)
- - [TypeScript](#typescript-)
  - [Swift](#swift-)
+ - [TypeScript](#typescript-)
+ - [.NET](#net-)
 
 
 <h1>Flutter <img style="margin: 4px 0 0 4px" height="32" src="media/flutter.svg" alt="Flutter Logo"/></h1>
