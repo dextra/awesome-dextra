@@ -28,9 +28,7 @@ Dextra is a Software development company which is really proud of the great work
  - [Android](#android-)
  - [Flutter](#flutter-)
  - [JavaScript](#javascript-)
- - [Kotlin](#kotlin-)
  - [TypeScript](#typescript-)
- - [VBScript](#vbscript-)
  - [.NET](#net-)
 
 <h1>Android <img style="margin: 4px 0 0 4px" height="32" src="media/android.svg" alt="Android Logo"/></h1>
@@ -48,18 +46,10 @@ Dextra is a Software development company which is really proud of the great work
  - [Nanoflux](https://github.com/ohager/nanoflux) - Very lightweight, depency-free Flux implementation. Author: [Oliver Hager](https://github.com/ohager)
  - [Stappo](https://github.com/ohager/stappo) - Extremely tiny Application State Manager written in Javascript (less than 300 bytes). Author: [Oliver Hager](https://github.com/ohager)
 
-<h1>Kotlin <img style="margin: 4px 0 0 4px" height="32" src="media/kotlin.svg" alt="Kotlin Logo"/></h1>
-
- - [Kotlin Multiplatform Example](https://github.com/alexandrehtrb/KotlinMultiplatformExample) - An example of a Kotlin Multiplatform (Kotlin MPP) project for Android and iOS, also using Gradle Kotlin Scripts (KTS). Author: [Alexandre Bonfitto](https://github.com/alexandrehtrb/)
-
 <h1>Typescript <img style="margin: 4px 0 0 4px" height="32" src="media/typescript.svg" alt="Typescript Logo"/></h1>
 
  - [Phoenix Burst Wallet](https://github.com/burst-apps-team/phoenix) - Cross-platform for the Burstcoin blockchain. Co-Author/Maintainer: [Oliver Hager](https://github.com/ohager)
  - [@burstjs](https://burst-apps-team.github.io/phoenix) - Reference Library for Burstcoin blockchain platform. Co-Author/Maintainer: [Oliver Hager](https://github.com/ohager)
-
- <h1>VBScript <img style="margin: 4px 0 0 4px" height="32" src="media/vbscript.png" alt="VBScript Logo"/></h1>
-
- - [AssertVBS](https://github.com/alexandrehtrb/AssertVBS) - Testing assertion library for VBScript. Author: [Alexandre Bonfitto](https://github.com/alexandrehtrb/)
 
 <h1>.NET <img style="margin: 4px 0 0 4px" height="32" src="media/dotnet.svg" alt=".NET Logo"/></h1>
 
