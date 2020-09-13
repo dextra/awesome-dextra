@@ -35,6 +35,8 @@ Dextra is a Software development company which is really proud of the great work
 <h1>Flutter <img style="margin: 4px 0 0 4px" height="32" src="media/flutter.svg" alt="Flutter Logo"/></h1>
 
  - [Dashbook](https://github.com/erickzanardo/dashbook) - Documentation and sandbox tool for Flutter. Author: [Erick Zanardo](https://github.com/erickzanardo/)
+ - [DextrAquario](https://github.com/dextra/dextraquario) - Platform to hold contribution competitions written with Flutter and Flame for web. Co-Author: [Erick Zanardo](https://github.com/erickzanardo/) | Co-Author [Tyemy Kuga](https://github.com/tyemykuga)
+
  - [Flame](https://github.com/flame-engine/flame) - A game engine written on top of Flutter. Maintainer: [Erick Zanardo](https://github.com/erickzanardo/)
 
 <h1>Javascript <img style="margin: 4px 0 0 4px" height="32" src="media/javascript.svg" alt="Javascript Logo"/></h1>
@@ -45,7 +47,7 @@ Dextra is a Software development company which is really proud of the great work
 
 <h1>Swift <img style="margin: 4px 0 0 4px" height="32" src="media/swift.svg" alt="Swift Logo"/></h1>
 
-- [BricksAndTiles](https://github.com/mugbug/BricksAndTiles) - 
+- [BricksAndTiles](https://github.com/mugbug/BricksAndTiles) -
 🧱 A composable solution for building reusable lists in Swift/UIKit. As easy as playing with Legos. Co-Author/Maintainer: [Pedro Zaroni](https://github.com/mugbug)
 
 <h1>Typescript <img style="margin: 4px 0 0 4px" height="32" src="media/typescript.svg" alt="Typescript Logo"/></h1>
