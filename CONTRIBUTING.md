@@ -30,7 +30,7 @@ The changes on README.md must follow the following guide line to be accepted.
 The project must be under a category, i.e. programming language, 
 and if a category doesn't exist, it can be [created](#Guideline for new categories) 
 
-The new added line should respect the following format:
+The new added line _must_ respect the following format:
 
 ```
  - [Project name](project link) - A short project description. ROLE_TYPE: [Person name](Person github profile link)
