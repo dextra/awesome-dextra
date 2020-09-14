@@ -43,11 +43,11 @@ The new added line should respect the following format:
 
 ## Guideline for new categories 
 
-If a category is missing feel free to add one. Categories are (as of the time of writing) alnost programming languages.
+If a category is missing feel free to add one. Categories are (as of the time of writing) almost programming languages.
 When adding, you need to add a reference in the index  in __alphabetical order__  and following this format:
 
 ```
- - [Language Name](#reference-)  
+ - [Category](#reference-)  
 ```
 > For some reasons the reference name must end with `-`
 
@@ -55,7 +55,7 @@ Furthermore, add a headline with a nice and representing logo of that category (
 The logo (svg, jpg, png) should be added to `./media` folder.
 
 ```
-<h1>Language Name <img style="margin: 4px 0 0 4px" height="32" src="media/language-logo.svg" alt="Language Logo"/></h1>
+<h1>Category<img style="margin: 4px 0 0 4px" height="32" src="media/category-logo.svg" alt="Category Logo"/></h1>
 ```
 
 ---
