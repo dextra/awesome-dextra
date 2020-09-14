@@ -41,6 +41,11 @@ The new added line _must_ respect the following format:
  - `Co-Author`: when the person is one of the authors of that project with multiple creators/authors
  - `Maintainer`: when the person is part of the team of the project, or has a significant degree of responsibility of that project.
 
+In case of multiple contributors you can add them separated by comma and using plural name, e.g.
+```
+Authors: [Oliver Hager](ohager@mail.com), [Erick Zanardo](ezanardo@mail.com)
+```
+
 ## Guideline for new categories 
 
 If a category is missing feel free to add one. Categories are (as of the time of writing) almost programming languages.
