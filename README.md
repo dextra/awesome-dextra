@@ -35,7 +35,7 @@ Dextra is a Software development company which is really proud of the great work
 <h1>Flutter <img style="margin: 4px 0 0 4px" height="32" src="media/flutter.svg" alt="Flutter Logo"/></h1>
 
  - [Dashbook](https://github.com/erickzanardo/dashbook) - Documentation and sandbox tool for Flutter. Author: [Erick Zanardo](https://github.com/erickzanardo/)
- - [DextrAquario](https://github.com/dextra/dextraquario) - Platform to hold contribution competitions written with Flutter and Flame for web. Co-Author: [Erick Zanardo](https://github.com/erickzanardo/) | Co-Author [Tyemy Kuga](https://github.com/tyemykuga)
+ - [DextrAquario](https://github.com/dextra/dextraquario) - Platform to hold contribution competitions written with Flutter and Flame for web. Co-Author: [Erick Zanardo](https://github.com/erickzanardo/), Co-Author [Tyemy Kuga](https://github.com/tyemykuga)
 
  - [Flame](https://github.com/flame-engine/flame) - A game engine written on top of Flutter. Maintainer: [Erick Zanardo](https://github.com/erickzanardo/)
 
