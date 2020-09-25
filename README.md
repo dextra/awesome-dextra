@@ -17,7 +17,7 @@
   </p>
 </div>
 
-# Awesome dextra
+# Awesome Dextra
 
 A curated list of open source projects created or maintained by [Dextra](https://dextra.com.br/) employees.
 

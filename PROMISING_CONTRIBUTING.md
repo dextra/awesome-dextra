@@ -1,31 +1,45 @@
-## Contributing
+# Contributing to Promising 🏗 Projects 
+
+## Introduction
+
+The list for promising projects shoudl be a space to show up your initiative for the FOSS community. Projects needs time to
+be evolved and ready for public audience. While you are working on this, you may apply for this list of promising projects, 
+which - once open for public - can be promoted to the [Awesome Dextra](./README.md) list.
+
+That way, your project gets visibility and others might get aware of your project, such you can receive help and hints from
+your colleagues.
+
+## Contribution Guidelines
 
 To contribute to this list, and add your own project, you need to follow this guide. First thing is to see if your project meets to following criteria:
 
  - Repositories must be created or maintained by a Dextra employee by the time the project is submitted.
- - Repositories must be real projects. There are no minimum stars, commit frequency, or things like that, but it must be a real project. 
+ - Repositories must be ongoing projects aka WIPs. There are no minimum stars, commit frequency, or things like that, but it must be a real project. 
  - The person must have created, or be a member of the Repository.
 
-Examples of real projects in our vision
+Examples of *promising* projects in our vision
 
- - Published packages/libraries/frameworks (Published meaning people can use this on their own project, using the available publishing method for the platform it is built on)
- - Open Source apps
- - Reusable template projects, like bootstrappers
- - Original proof of concepts projects, that is used on tutorials/articles
-
-Examples of projects __not considered__ real in our vision
+ - Open Source and licensed under one of the [Open Source Licenses](https://opensource.org/licenses)
+ - Projects with a __future__ value for the community, i.e. apps, libs, frameworks etc.
+ - Ongoing development, i.e. last commit should not be more than __six__ month ago
+ 
+Examples of projects __not considered__ promising in our vision
 
  - Simple proof of concept projects, or test repositories
  - Personal projects that has little or no use for the community, like personal portfolios, etc
  - Repositories used for personal studies or even forked repositories from online courses
+ - Staled/Discontinued Development, i.e. last commit is more than __six__ months ago 
 
-#### To sum up, a project which has relevance to other people in the community.
+
+#### To sum up, an open source project which _might_ have relevance to other people in the community once it is ready to be published
 
 If your project meets those criterias, then it's time to fork this repository and [send us a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 ## Guideline for new projects
 
-The changes on README.md must follow the following guide line to be accepted.
+The changes on [PROMISING.md](./PROMISING.md) must follow the following guide line to be accepted.
+
+> Almost identical to the [README.md format](./README.md)
 
 The project must be under a category, i.e. programming language, 
 and if a category doesn't exist, it can be [created](#Guideline for new categories) 
@@ -68,3 +82,9 @@ The logo (svg, jpg, png) should be added to `./media` folder.
 Entries, both categories and the entry list must be in alphabetical order.
 
 ---
+
+## Promotion to Awesome List
+
+Once you think that your project is mature enough (i.e. reached a release candidate status) and was publicly released 
+then you may apply for the [Awesome Dextra](./README.md) listing, by simply move your project from the [Promising List](./PROMISING.md) 
+into the [Awesome List](./README.md) by opening a pull request.
