@@ -26,6 +26,7 @@ Dextra is a Software development company which is really proud of the great work
 ## Contents
 
  - [Flutter](#flutter-)
+ - [Golang](#golang-)
  - [JavaScript](#javascript-)
  - [Swift](#swift-)
  - [TypeScript](#typescript-)
@@ -37,6 +38,10 @@ Dextra is a Software development company which is really proud of the great work
  - [DextrAquario](https://github.com/dextra/dextraquario) - Platform to hold contribution competitions written with Flutter and Flame for web. Co-Author: [Erick Zanardo](https://github.com/erickzanardo/), Co-Author [Tyemy Kuga](https://github.com/tyemykuga)
 
  - [Flame](https://github.com/flame-engine/flame) - A game engine written on top of Flutter. Maintainer: [Erick Zanardo](https://github.com/erickzanardo/)
+
+<h1>Golang <img style="margin: 4px 0 0 4px" height="32" src="media/go.svg" alt=".NET Logo"/></h1>
+
+ - [golang-health-checker](https://github.com/gritzkoo/golang-health-checker) - A package that allows you to track your application health providing two ways of checking, with and without integrations, to standardize implementations cross microservices and for applications that are running in k8s, provide liveness and readiness approach. Author: [Gritzko D. Kleiner](https://github.com/gritzkoo)
 
 <h1>Javascript <img style="margin: 4px 0 0 4px" height="32" src="media/javascript.svg" alt="Javascript Logo"/></h1>
 
@@ -51,18 +56,13 @@ Dextra is a Software development company which is really proud of the great work
 
 <h1>Typescript <img style="margin: 4px 0 0 4px" height="32" src="media/typescript.svg" alt="Typescript Logo"/></h1>
 
- - [Phoenix Burst Wallet](https://github.com/burst-apps-team/phoenix) - Cross-platform crypto coin wallet for the Burstcoin blockchain. Co-Author/Maintainer: [Oliver Hager](https://github.com/ohager)
  - [@burstjs](https://burst-apps-team.github.io/phoenix) - Reference Library for Burstcoin blockchain platform. Co-Author/Maintainer: [Oliver Hager](https://github.com/ohager)
- 
- - [nodejs-health-checker](https://github.com/gritzkoo/nodejs-health-checker) - A package that allows you to track your application healthy providing two ways of checking, with and without integrations, to standardize implementations cross microservices and for applications that are running in k8s, provide liveness and readiness approach. Authors: [Gritzko D. Kleiner](https://github.com/gritzkoo) and [João Pedro Mantovani](https://github.com/joaomantovani)
+ - [nodejs-health-checker](https://github.com/gritzkoo/nodejs-health-checker) - A package that allows you to track your application health providing two ways of checking, with and without integrations, to standardize implementations cross microservices and for applications that are running in k8s, provide liveness and readiness approach. Authors: [Gritzko D. Kleiner](https://github.com/gritzkoo) and [João Pedro Mantovani](https://github.com/joaomantovani)
+ - [Phoenix Burst Wallet](https://github.com/burst-apps-team/phoenix) - Cross-platform crypto coin wallet for the Burstcoin blockchain. Co-Author/Maintainer: [Oliver Hager](https://github.com/ohager)
 
 <h1>.NET <img style="margin: 4px 0 0 4px" height="32" src="media/dotnet.svg" alt=".NET Logo"/></h1>
 
  - [DexQuiz](https://github.com/dextra/dexquiz) - A simple quiz with different tracks, to be used in events to engage people with the company and also help with gifts and awards. Authors: [Gustavo Bigardi](https://github.com/gustavobigardi), [Gabriel Cordeiro](https://github.com/Gabriel-Cordeiro), [Bruno Habbermann](https://github.com/bhabermann) and [Alexandre Bonfitto](https://github.com/alexandrehtrb)
-
-<h1>Golang <img style="margin: 4px 0 0 4px" height="32" src="media/go.svg" alt=".NET Logo"/></h1>
-
- - [golang-health-checker](https://github.com/gritzkoo/golang-health-checker) - A package that allows you to track your application healthy providing two ways of checking, with and without integrations, to standardize implementations cross microservices and for applications that are running in k8s, provide liveness and readiness approach. Author: [Gritzko D. Kleiner](https://github.com/gritzkoo)
 
 ## Contributing
 
