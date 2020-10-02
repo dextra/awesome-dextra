@@ -43,7 +43,7 @@ The new added line _must_ respect the following format:
 
 In case of multiple contributors you can add them separated by comma and using plural name, e.g.
 ```
-Authors: [Oliver Hager](ohager@mail.com), [Erick Zanardo](ezanardo@mail.com)
+Authors: [Oliver Hager](https://github.com/ohager), [Erick Zanardo](https://github.com/erickzanardo)
 ```
 
 ## Guideline for new categories 
