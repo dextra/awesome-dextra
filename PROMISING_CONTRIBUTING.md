@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The list for promising projects should be a space to show up your initiative for the FOSS community. Projects needs time to be evolved until being ready for public audience. While you are working on this, you may apply for this list of promising projects, which - once open for public - can be promoted to the [Awesome Dextra](./README.md) list.
+The list for promising projects should be a space to show up your initiative for the [FOSS community](https://opensource.org/). Projects needs time to be evolved until being ready for public audience. While you are working on this, you may apply for this list of promising projects, which - once open for public - can be promoted to the [Awesome Dextra](./README.md) list.
 
 That way, your project gets visibility and others might get aware of your project, such you can receive help and hints from
 your colleagues.

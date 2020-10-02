@@ -23,6 +23,8 @@ A curated list of open source projects created or maintained by [Dextra](https:/
 
 Dextra is a Software development company which is really proud of the great work that its employees do on the open source community, this list is a simple way to show those awesome projects.
 
+> In case, you a have promising project, which is not ready for public yet and that may do its way into this list, don't hesitate to apply for our [Promising Projects List](./PROMISING.md).
+
 ## Contents
 
  - [Flutter](#flutter-)
