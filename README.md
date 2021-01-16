@@ -17,43 +17,60 @@
   </p>
 </div>
 
-# Awesome dextra
+# Awesome Dextra
 
-A curated list of open source projects created or maintained by Dextra employees.
+A curated list of open source projects created or maintained by [Dextra](https://dextra.com.br/) employees.
 
 Dextra is a Software development company which is really proud of the great work that its employees do on the open source community, this list is a simple way to show those awesome projects.
+
+> In case, you a have promising project, which is not ready for public yet and that may do its way into this list, don't hesitate to apply for our [Promising Projects List](./PROMISING.md).
 
 ## Contents
 
  - [Android](#android-)
  - [Flutter](#flutter-)
+ - [Golang](#golang-)
  - [JavaScript](#javascript-)
- - [.NET](#net-)
+ - [Swift](#swift-)
  - [TypeScript](#typescript-)
+ - [.NET](#net-)
 
-<h1>Android <img style="margin: 4px 0 0 4px" height="32" src="media/android.svg" alt="Android Logo"/></h1>
+ <h1>Android <img style="margin: 4px 0 0 4px" height="32" src="media/android.svg" alt="Android Logo"/></h1>
 
- - [IridescentView](https://github.com/alexandrehtrb/IridescentView) - Custom ImageView with iridescence effect. Author: [Alexandre Bonfitto](https://github.com/alexandrehtrb/)
+ - [IridescentView](https://github.com/alexandrehtrb/IridescentView) - A custom ImageView with iridescence effect. Author: [Alexandre Bonfitto](https://github.com/alexandrehtrb/)
 
 <h1>Flutter <img style="margin: 4px 0 0 4px" height="32" src="media/flutter.svg" alt="Flutter Logo"/></h1>
 
  - [Dashbook](https://github.com/erickzanardo/dashbook) - Documentation and sandbox tool for Flutter. Author: [Erick Zanardo](https://github.com/erickzanardo/)
+ - [DextrAquario](https://github.com/dextra/dextraquario) - Platform to hold contribution competitions written with Flutter and Flame for web. Co-Author: [Erick Zanardo](https://github.com/erickzanardo/), Co-Author [Tyemy Kuga](https://github.com/tyemykuga)
+
  - [Flame](https://github.com/flame-engine/flame) - A game engine written on top of Flutter. Maintainer: [Erick Zanardo](https://github.com/erickzanardo/)
 
+<h1>Golang <img style="margin: 4px 0 0 4px" height="32" src="media/go.svg" alt=".NET Logo"/></h1>
+
+ - [golang-health-checker](https://github.com/gritzkoo/golang-health-checker) - A package that allows you to track your application health providing two ways of checking, with and without integrations, to standardize implementations cross microservices and for applications that are running in k8s, provide liveness and readiness approach. Author: [Gritzko D. Kleiner](https://github.com/gritzkoo)
 
 <h1>Javascript <img style="margin: 4px 0 0 4px" height="32" src="media/javascript.svg" alt="Javascript Logo"/></h1>
 
- - [Nanoflux](https://github.com/ohager/nanoflux) - Very lightweight, depency-free Flux implementation. Author: [Oliver Hager](https://github.com/ohager)
+ - [Graphql Import Files](https://github.com/tiago154/graphql-import-files) - Light and easy package that will load .graphql files and use them with syntax highlighting. Author: [Tiago Silva](https://github.com/tiago154)
+ - [Nanoflux](https://github.com/ohager/nanoflux) - Very lightweight, dependency-free Flux implementation. Author: [Oliver Hager](https://github.com/ohager)
  - [Stappo](https://github.com/ohager/stappo) - Extremely tiny Application State Manager written in Javascript (less than 300 bytes). Author: [Oliver Hager](https://github.com/ohager)
+ - [Burnify](https://github.com/feroult/burnify) - Highly interactive product burn-down charts. Author: [Fernando Ultremare](https://github.com/feroult) 
+
+<h1>Swift <img style="margin: 4px 0 0 4px" height="32" src="media/swift.svg" alt="Swift Logo"/></h1>
+
+- [BricksAndTiles](https://github.com/mugbug/BricksAndTiles) -
+🧱 A composable solution for building reusable lists in Swift/UIKit. As easy as playing with Legos. Co-Author/Maintainer: [Pedro Zaroni](https://github.com/mugbug)
 
 <h1>Typescript <img style="margin: 4px 0 0 4px" height="32" src="media/typescript.svg" alt="Typescript Logo"/></h1>
 
- - [Phoenix Burst Wallet](https://github.com/burst-apps-team/phoenix) - Cross-platform for the Burstcoin blockchain. Co-Author/Maintainer: [Oliver Hager](https://github.com/ohager)
  - [@burstjs](https://burst-apps-team.github.io/phoenix) - Reference Library for Burstcoin blockchain platform. Co-Author/Maintainer: [Oliver Hager](https://github.com/ohager)
+ - [nodejs-health-checker](https://github.com/gritzkoo/nodejs-health-checker) - A package that allows you to track your application health providing two ways of checking, with and without integrations, to standardize implementations cross microservices and for applications that are running in k8s, provide liveness and readiness approach. Authors: [Gritzko D. Kleiner](https://github.com/gritzkoo) and [João Pedro Mantovani](https://github.com/joaomantovani)
+ - [Phoenix Burst Wallet](https://github.com/burst-apps-team/phoenix) - Cross-platform crypto coin wallet for the Burstcoin blockchain. Co-Author/Maintainer: [Oliver Hager](https://github.com/ohager)
 
 <h1>.NET <img style="margin: 4px 0 0 4px" height="32" src="media/dotnet.svg" alt=".NET Logo"/></h1>
 
- - [DexQuiz](https://github.com/dextra/dexquiz) - A simple quiz with different tracks, to be used in events to engage people with the company and also help with gifts and awards. Author: [Gustavo Bigardi](https://github.com/gustavobigardi)
+ - [DexQuiz](https://github.com/dextra/dexquiz) - A simple quiz with different tracks, to be used in events to engage people with the company and also help with gifts and awards. Authors: [Gustavo Bigardi](https://github.com/gustavobigardi), [Gabriel Cordeiro](https://github.com/Gabriel-Cordeiro), [Bruno Habbermann](https://github.com/bhabermann) and [Alexandre Bonfitto](https://github.com/alexandrehtrb)
 
 ## Contributing
 
