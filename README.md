@@ -49,6 +49,7 @@ Dextra is a Software development company which is really proud of the great work
 <h1>Golang <img style="margin: 4px 0 0 4px" height="32" src="media/go.svg" alt=".NET Logo"/></h1>
 
  - [golang-health-checker](https://github.com/gritzkoo/golang-health-checker) - A package that allows you to track your application health providing two ways of checking, with and without integrations, to standardize implementations cross microservices and for applications that are running in k8s, provide liveness and readiness approach. Author: [Gritzko D. Kleiner](https://github.com/gritzkoo)
+ - [Hare](https://github.com/leozz37/hare) - User-friendly library for sockets in Golang. You can send and listen to TCP connections with a few lines of code. Author: [Leonardo Lima](https://github.com/leozz37)
 
 <h1>Javascript <img style="margin: 4px 0 0 4px" height="32" src="media/javascript.svg" alt="Javascript Logo"/></h1>
 
