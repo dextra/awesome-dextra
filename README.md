@@ -58,8 +58,11 @@ Dextra is a Software development company which is really proud of the great work
  - [Stappo](https://github.com/ohager/stappo) - Extremely tiny Application State Manager written in Javascript (less than 300 bytes). Author: [Oliver Hager](https://github.com/ohager)
  - [Burnify](https://github.com/feroult/burnify) - Highly interactive product burn-down charts. Author: [Fernando Ultremare](https://github.com/feroult)
  - [Burst dAppository](https://github.com/ohager/burst-dappository) - A decentralized 'App Store' built on [Burst](https://www.burst-coin.org/) blockchain platform using Smart Contracts and NFT (_DApp_) where devs can promote their contributions. Built with ❤️and SvelteJS!
-  Live: https://burst.dappository.world/
-  Author: [Oliver Hager](https://github.com/ohager)
+   Live: https://burst.dappository.world/
+   Author: [Oliver Hager](https://github.com/ohager)
+ - [Philentropyst](https://github.com/ohager/philantropyst) - Efficient Data Masking/Anonymization tool for structured text files (CSV, ...)  
+   Author: [Oliver Hager](https://github.com/ohager)
+
 
 <h1>Swift <img style="margin: 4px 0 0 4px" height="32" src="media/swift.svg" alt="Swift Logo"/></h1>
 
