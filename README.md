@@ -60,7 +60,7 @@ Dextra is a Software development company which is really proud of the great work
  - [Burst dAppository](https://github.com/ohager/burst-dappository) - A decentralized 'App Store' built on [Burst](https://www.burst-coin.org/) blockchain platform using Smart Contracts and NFT (_DApp_) where devs can promote their contributions. Built with ❤️and SvelteJS!
    Live: https://burst.dappository.world/
    Author: [Oliver Hager](https://github.com/ohager)
- - [Philentropyst](https://github.com/ohager/philantropyst) - Efficient Data Masking/Anonymization tool for structured text files (CSV, ...)  
+ - [Philentropyst](https://github.com/ohager/philentropyst) - Efficient Data Masking/Anonymization tool for structured text files (CSV, ...)  
    Author: [Oliver Hager](https://github.com/ohager)
 
 
