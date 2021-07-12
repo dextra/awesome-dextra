@@ -31,7 +31,7 @@ Dextra is a Software development company which is really proud of the great work
  - [Flutter](#flutter-)
  - [Golang](#golang-)
  - [JavaScript](#javascript-)
- - [SQL](#sql-)
+ - [Bash](#bash-)
  - [Swift](#swift-)
  - [TypeScript](#typescript-)
  - [.NET](#net-)
@@ -65,7 +65,7 @@ Dextra is a Software development company which is really proud of the great work
  - [Philentropyst](https://github.com/ohager/philentropyst) - Efficient Data Masking/Anonymization tool for structured text files (CSV, ...)  
    Author: [Oliver Hager](https://github.com/ohager)
 
-<h1>SQL </h1>
+<h1>Bash <img style="margin: 4px 0 0 4px" height="32" src="" alt="Swift Logo"/></h1>
 
 - [Dataform Project Template](https://github.com/oliveiraJessica/cookiecutter-dataform) - This project was developed to create templates in Dataform using CookieCutter tool. Dataform enables data teams to build scalable, tested, SQL based data transformation pipelines using version control and engineering inspired best practices. Co-Author/Maintainer: [Valéria Silva](https://github.com/vvalcristina), [Jéssica Oliveira](https://github.com/oliveiraJessica)
 
