@@ -63,6 +63,9 @@ Dextra is a Software development company which is really proud of the great work
    Author: [Oliver Hager](https://github.com/ohager)
  - [Philentropyst](https://github.com/ohager/philentropyst) - Efficient Data Masking/Anonymization tool for structured text files (CSV, ...)  
    Author: [Oliver Hager](https://github.com/ohager)
+ - [Logossim](https://github.com/renato-bohler/logossim) - Digital logic simulator, built for the web, and built to be extensible.
+   Live: https://renato-bohler.github.io/logossim
+   Author: [Renato Böhler](https://github.com/renato-bohler)
 
 
 <h1>Swift <img style="margin: 4px 0 0 4px" height="32" src="media/swift.svg" alt="Swift Logo"/></h1>
@@ -75,6 +78,9 @@ Dextra is a Software development company which is really proud of the great work
  - [@burstjs](https://burst-apps-team.github.io/phoenix) - Reference Library for Burstcoin blockchain platform. Co-Author/Maintainer: [Oliver Hager](https://github.com/ohager)
  - [nodejs-health-checker](https://github.com/gritzkoo/nodejs-health-checker) - A package that allows you to track your application health providing two ways of checking, with and without integrations, to standardize implementations cross microservices and for applications that are running in k8s, provide liveness and readiness approach. Authors: [Gritzko D. Kleiner](https://github.com/gritzkoo) and [João Pedro Mantovani](https://github.com/joaomantovani)
  - [Phoenix Burst Wallet](https://github.com/burst-apps-team/phoenix) - Cross-platform crypto coin wallet for the Burstcoin blockchain. Co-Author/Maintainer: [Oliver Hager](https://github.com/ohager)
+ - [What The Filter?](https://github.com/renato-bohler/what-the-filter) - A visual playground to JavaScript array & object transformations.
+   Live: https://renato-bohler.github.io/what-the-filter
+   Author: [Renato Böhler](https://github.com/renato-bohler)
 
 <h1>.NET <img style="margin: 4px 0 0 4px" height="32" src="media/dotnet.svg" alt=".NET Logo"/></h1>
 
