@@ -54,16 +54,18 @@ Dextra is a Software development company which is really proud of the great work
 
 <h1>Javascript <img style="margin: 4px 0 0 4px" height="32" src="media/javascript.svg" alt="Javascript Logo"/></h1>
 
- - [Graphql Import Files](https://github.com/tiago154/graphql-import-files) - Light and easy package that will load .graphql files and use them with syntax highlighting. Author: [Tiago Silva](https://github.com/tiago154)
- - [Nanoflux](https://github.com/ohager/nanoflux) - Very lightweight, dependency-free Flux implementation. Author: [Oliver Hager](https://github.com/ohager)
- - [Stappo](https://github.com/ohager/stappo) - Extremely tiny Application State Manager written in Javascript (less than 300 bytes). Author: [Oliver Hager](https://github.com/ohager)
  - [Burnify](https://github.com/feroult/burnify) - Highly interactive product burn-down charts. Author: [Fernando Ultremare](https://github.com/feroult)
  - [Burst dAppository](https://github.com/ohager/burst-dappository) - A decentralized 'App Store' built on [Burst](https://www.burst-coin.org/) blockchain platform using Smart Contracts and NFT (_DApp_) where devs can promote their contributions. Built with ❤️and SvelteJS!
    Live: https://burst.dappository.world/
    Author: [Oliver Hager](https://github.com/ohager)
+ - [Graphql Import Files](https://github.com/tiago154/graphql-import-files) - Light and easy package that will load .graphql files and use them with syntax highlighting. Author: [Tiago Silva](https://github.com/tiago154)
+ - [Logossim](https://github.com/renato-bohler/logossim) - Digital logic simulator, built for the web, and built to be extensible.
+   Live: https://renato-bohler.github.io/logossim
+   Author: [Renato Böhler](https://github.com/renato-bohler)
+ - [Nanoflux](https://github.com/ohager/nanoflux) - Very lightweight, dependency-free Flux implementation. Author: [Oliver Hager](https://github.com/ohager)
  - [Philentropyst](https://github.com/ohager/philentropyst) - Efficient Data Masking/Anonymization tool for structured text files (CSV, ...)  
    Author: [Oliver Hager](https://github.com/ohager)
-
+ - [Stappo](https://github.com/ohager/stappo) - Extremely tiny Application State Manager written in Javascript (less than 300 bytes). Author: [Oliver Hager](https://github.com/ohager)
 
 <h1>Swift <img style="margin: 4px 0 0 4px" height="32" src="media/swift.svg" alt="Swift Logo"/></h1>
 
@@ -75,6 +77,9 @@ Dextra is a Software development company which is really proud of the great work
  - [@burstjs](https://burst-apps-team.github.io/phoenix) - Reference Library for Burstcoin blockchain platform. Co-Author/Maintainer: [Oliver Hager](https://github.com/ohager)
  - [nodejs-health-checker](https://github.com/gritzkoo/nodejs-health-checker) - A package that allows you to track your application health providing two ways of checking, with and without integrations, to standardize implementations cross microservices and for applications that are running in k8s, provide liveness and readiness approach. Authors: [Gritzko D. Kleiner](https://github.com/gritzkoo) and [João Pedro Mantovani](https://github.com/joaomantovani)
  - [Phoenix Burst Wallet](https://github.com/burst-apps-team/phoenix) - Cross-platform crypto coin wallet for the Burstcoin blockchain. Co-Author/Maintainer: [Oliver Hager](https://github.com/ohager)
+ - [What The Filter?](https://github.com/renato-bohler/what-the-filter) - A visual playground to JavaScript array & object transformations.
+   Live: https://renato-bohler.github.io/what-the-filter
+   Author: [Renato Böhler](https://github.com/renato-bohler)
 
 <h1>.NET <img style="margin: 4px 0 0 4px" height="32" src="media/dotnet.svg" alt=".NET Logo"/></h1>
 
