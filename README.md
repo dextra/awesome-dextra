@@ -38,6 +38,7 @@ Dextra is a Software development company which is really proud of the great work
  <h1>Android <img style="margin: 4px 0 0 4px" height="32" src="media/android.svg" alt="Android Logo"/></h1>
 
  - [IridescentView](https://github.com/alexandrehtrb/IridescentView) - A custom ImageView with iridescence effect. Author: [Alexandre Bonfitto](https://github.com/alexandrehtrb/)
+ - [LiveCallback](https://github.com/rih-carv/LiveCallback) - A library that aims to make dealing with async callbacks on Android safer and straightforward. Author: [Ricardo Carvalho](https://github.com/rih-carv)
 
 <h1>Flutter <img style="margin: 4px 0 0 4px" height="32" src="media/flutter.svg" alt="Flutter Logo"/></h1>
 
